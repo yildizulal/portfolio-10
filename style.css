@@ -499,3 +499,26 @@ img{
         margin-inline: 10rem;
     }
 }
+@media screen and (min-width:1436px){
+    .nav-container{
+        position: relative;
+        left: 10%;
+        padding: 2rem;
+    }
+
+    .about-description{
+            margin-inline: 20rem;
+    }
+
+    .line{
+        left: 46%;
+    }
+
+    .port-container{
+        margin-inline: auto;
+    }
+
+    .contact{
+        margin-inline: 12rem;
+    }
+}
